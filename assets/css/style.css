@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    }
+h1 {
+    padding-left: 50px;
+    color: rgb(182, 11, 11);
+    padding-top: 6em;
+    font-style: italic;
+}
+h2 {
+    padding-left: 50px;
+    color: rgb(197, 6, 6);
+    font-style: oblique;
+}
+header {
+    height: 20em;
+    background-image: url("../imagen/logodanzing.jpg");
+    background-size: contain;
+    background-position: center;
+    background-color: black;
+    background-repeat: no-repeat;
+}
+.products {
+    width: 80%;
+    margin: auto;
+    }
+.products td {
+    width: 50%;
+    padding: 3em;
+    }
+.products img {
+    width: 100%;
+    border: 10px ridge #801c1c;
+    }
+.products p {
+    width: auto;
+    border: 10px outset #cccccc;
+    background-color: #cccccc;
+}
+.description {
+    font-family:fantasy;
+}
+.socialmediainfo {
+background-color: rgb(218, 0, 0);
+color: rgb(0, 0, 0);
+text-align: center;
+font-family: fantasy;
+}
